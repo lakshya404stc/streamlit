@@ -5,3 +5,4 @@ google-cloud-speech==2.16.1
 google-cloud-texttospeech==2.14.1
 requests==2.31.0
 Pillow==9.0.0
+python-dotenv
